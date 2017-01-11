@@ -1,4 +1,5 @@
 # Resources for "Chipping Away at the Monolith with Go"
+Items in this repository are a companion to the talk "Chipping Away at the Monolith with Go" that was given at CodeMash 2017 on January 12, 2017 at 9:15 AM at the Kalahari Resort in Sandusky, OH.
 
 ## Demo Code
 All of the programs can be run by going into the directory and issuing the following command: `go run main.go`  
