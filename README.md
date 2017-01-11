@@ -4,6 +4,7 @@
 All of the programs can be run by going into the directory and issuing the following command: `go run main.go`  
 
 In this repo there are two directories that contain source code:  
+  - `go-kit/` - A simple Go Kit service that demonstrates the basics of using Go Kit. The service listens on localhost:8080.
   - `interfaces/` - A simple program that demonstrates how to use interfaces and demonstrates the usefulness of compatible interfaces.
   - `server/` - A simple program that demonstrates how to create a simple HTTP server that returns "Hello, World" when accessed.
 
